@@ -1,5 +1,5 @@
 
-[live link](https://jiobookpx.bytexl.live/)
+[Live link](https://jiobookpx.bytexl.live/)
 # JioBook PX Project Overview
 
 **JioBook PX** is a web development project designed to present the JioBook laptop in a professional and attractive way. The project can be created using **HTML, CSS, JavaScript, and Python (Flask)"
